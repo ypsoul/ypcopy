@@ -135,7 +135,6 @@ function pathType(path){
 function help(){
 	console.log(chalk.blueBright(`
 ypcopy: 0.08
-Usage: https://github.com/leinov/ypcopy
 options:
 [from] [to]       copy [from] file or directory to [to]
 example:
