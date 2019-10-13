@@ -5,7 +5,7 @@
 * @desc: a node copy cli
 * @author: yp
 * @version: 1.0.0
-* @date: 2019-10-13 / 2018-10-13
+* @date: 2019-10-13 / 2019-10-13
 ***********************************/
 
 const fs = require( "fs" );
